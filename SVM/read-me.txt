@@ -1,0 +1,12 @@
+
+
+这是关于svm的介绍，实现主要依托于scikit-learn，因此主要是代码复现svm..........
+关于svm背后数学理论介绍，本人认为吴恩达老师讲解的最为清晰易懂，建议参考他的机器学习课，如果想进一步理解svm，请参考参考’西瓜书’
+另外参考的有：
+https://blog.csdn.net/gamer_gyt/article/details/51265347
+https://xacecask2.gitbooks.io/scikit-learn-user-guide-chinese-version/content/sec1.4.html
+http://ihoge.cn/2018/SVWSVC.html
+https://blog.csdn.net/xiaoniu0991/article/details/79999105
+https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes/tree/master/code
+
+谢谢！！！
